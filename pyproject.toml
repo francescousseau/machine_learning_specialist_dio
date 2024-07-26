@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "machine-learning-specialist-dio"
+version = "0.1.0"
+description = ""
+authors = ["Francesco Cristiano Cousseau <francescousseau@faithful.com.br>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+yes = "^0.0.1"
+Pillow-PIL = "^0.1.dev0"
+pillow = "^10.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
