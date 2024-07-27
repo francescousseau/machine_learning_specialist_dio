@@ -1,4 +1,6 @@
-![DIO](https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png)
+<img src="https://github.com/francescousseau/machine_learning_specialist_dio/blob/c5bd27b68c11bf2a36b6337110c455f85e2d539f/imagem/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.webp" alt="Descrição da Imagem" width="200" height="200">
+
+
 # Formação Machine Learning Specialist
 
 Este repositório contém materiais e códigos desenvolvidos como parte da Formação Machine Learning Specialist oferecida pela Digital Innovation One (DIO). A formação é composta por diversos cursos e projetos que visam proporcionar um conhecimento profundo em Machine Learning e áreas relacionadas.
